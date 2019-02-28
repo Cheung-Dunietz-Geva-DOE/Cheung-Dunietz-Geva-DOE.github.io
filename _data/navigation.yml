@@ -6,6 +6,8 @@ main:
     url: /page2/
   - title: "Page 3"
     url: /page3/
+  - title: "Example Page"
+    url: /examplePage/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
