@@ -13,10 +13,14 @@ If you would like to put a image in, put the file in the _\_images_ folder and t
  1. If you need to resize or align the photo, you can use some basic html, like so: 
 
     \<p align="center">\<img src="../_images/michiganChem.png" alt="Michigan Chem Photo" width="200" />\</p>
+    
+    which gives:
 <p align="center"><img src="../_images/michiganChem.png" alt="Michigan Chem Photo" width="200" /></p>
 
  2. If you don't need to format, you can insert using Markdown with:
 
     \!\[Michigan Chem Photo](../_images/michiganChem.png)
+    
+    which gives:
     
 ![Michigan Chem Photo](../_images/michiganChem.png)
